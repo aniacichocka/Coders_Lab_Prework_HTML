@@ -1,0 +1,50 @@
+#cat {
+  color: blue;
+}
+
+#dog {
+  color: green;
+}
+
+#first {
+  color: purple;
+}
+
+#second {
+  color: orange;
+}
+
+#third {
+  color: #ff5566;
+}
+
+#cake{
+  background-color: #00a9ff;
+  background-color: rgba(255, 30, 140, 0.25);
+}
+
+#candy {
+  background-color: #9fe25a;
+  background-color: rgba(15, 100, 45, 0.25);
+}
+
+.jelly {
+  color: hsla(0, 50%, 35%, 0.5);
+}
+
+.sweet {
+  background-color: #c3e2ff;
+  width: 200px;
+}
+
+#toffee {
+  background-color: #ffff00;
+  width: 50%;
+  /*width: 5em;*/
+}
+
+#tiramisu {
+  background-color: #6dc066;
+  width: 20%;
+  /*width: 2em;*/
+}

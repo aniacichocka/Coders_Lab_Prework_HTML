@@ -1,0 +1,17 @@
+table {
+  border: 1px solid black;
+  /*komórki z własnym borderem nie połączonym z innymi*/
+  border-collapse: separate;
+  /*komórki z borderem połączonym z innymi*/
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid black;
+  background-color: #ca4455;
+  color: white;
+}
+
+td {
+  border: 1px solid black;
+}

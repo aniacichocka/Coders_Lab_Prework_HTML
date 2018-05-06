@@ -1,0 +1,21 @@
+div {
+  height: 300px;
+  width: 45%;
+  border: 2px solid blue;
+}
+
+#one {
+  float: left;
+}
+
+#two {
+  float: right;
+}
+
+p {
+  color: grey;
+  height: 150px;
+  width: 200px;
+  border: 1px dashed grey;
+  display: inline-block;
+}
